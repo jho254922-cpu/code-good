@@ -155,43 +155,42 @@
     }
   },
   "landing": {
-    "big-heading-1": "무료로 코딩 배우기",
-    "big-heading-2": "프로젝트 생성하기",
-    "big-heading-1-b": "무료로 기술을 쌓으세요.",
-    "big-heading-3": "자격증 받기",
-    "advance-career": "프로그래밍, DevOps, 사이버보안, AI 엔지니어링, 개발자를 위한 영어 등 수요가 높은 기술을 배워 경력을 발전시키세요.",
-    "h2-heading": "<strong>100,000</strong>명 이상의 freeCodeCamp.org 졸업생이 다음을 포함한 기술회사에 <strong>취직했습니다</strong>:",
-    "graduates-work": "<strong>100,000</strong>명 이상의 freeCodeCamp 졸업생이 다음과 같은 회사에서 일합니다:",
-    "hero-img-description": "한국 지역의 freeCodeCamp 학생들",
-    "hero-img-alt": "백인 남성, 흑인 여성, 아시아 여성 등 한 무리의 사람들이 노트북 주위에 모였습니다.",
-    "hero-img-uis": "모바일 및 데스크탑 기기에서 freeCodeCamp 편집기 인터페이스와 인증서를 보여주는 스크린샷 모음.",
-    "as-seen-in": "여기서 보는 바와 같이:",
+    "big-heading-1": "1인 기업 자동화 배우기",
+    "big-heading-2": "AI 에이전트 연동하기",
+    "big-heading-1-b": "무료로 1인 기업 자동화 기술을 쌓으세요.",
+    "big-heading-3": "Synap 공인 인증서 받기",
+    "advance-career": "AI 에이전트 오케스트레이션, PayPal 자동 결제 구축, SaaS 자동 랜딩 페이지 설계 등 1인 기업 자동화와 수익화에 즉시 투입 가능한 실전 스택을 마스터하세요.",
+    "h2-heading": "<strong>1,000</strong>명 이상의 1인 창업가와 개발자가 Synap OS를 도입하여 <strong>무중단 자동화 수익</strong>을 실현하고 있습니다:",
+    "graduates-work": "<strong>1,000</strong>명 이상의 창업가들이 다음과 같은 비즈니스 자동화에 성공했습니다:",
+    "hero-img-description": "Synap AI 1인 기업 자동화 OS 아카데미 학생들",
+    "hero-img-alt": "다양한 분야의 창업가들이 노트북과 AI 대시보드 주위에 모여 1인 비즈니스를 빌드하고 있습니다.",
+    "hero-img-uis": "모바일 및 데스크탑 기기에서 Synap 에디터 인터페이스와 자동화 리포트, 검증된 인증서를 보여주는 스크린샷 모음.",
+    "as-seen-in": "미디어 및 커뮤니티 소개:",
     "testimonials": {
-      "heading": "동문들이 freeCodeCamp에 대해 언급한 내용은 다음과 같습니다.",
+      "heading": "수강생들이 Synap 아카데미에 대해 언급한 내용은 다음과 같습니다.",
       "shawn": {
-        "img-alt": "젊어 보이는 아시아인 Shawn Wang이 눈 덮인 산을 배경으로 셀카를 찍으며 웃고 있습니다.",
-        "location": "싱가포르의 <strong>Shawn Wang (션 왕)</strong> ",
-        "occupation": "<strong>Amazon(아마존)</strong>의 소프트웨어 엔지니어",
-        "testimony": "\"직업을 바꾸는 것은 무섭습니다. 저는 freeCodeCamp에서 오직 수백 시간의 무료 강의를 통해서 코딩을 할 수 있다는 자신감을 얻었습니다. 1년 만에 저는 소프트웨어 엔지니어라는 연봉 6자리 숫자의 직업을 갖게 되었습니다. <strong>freeCodeCamp는 제 삶을 바꿨습니다./<strong>\""
+        "img-alt": "눈 덮인 산을 배경으로 활짝 웃고 있는 1인 창업가 김민수 대표.",
+        "location": "서울의 <strong>김민수 대표</strong> ",
+        "occupation": "<strong>Synap OS 기반 1인 게임사</strong> 창업가",
+        "testimony": "\"혼자서 게임을 개발하고 서비스하는 것은 불가능해 보였습니다. 하지만 Synap 아카데미를 통해 AI 에이전트 협업 시스템과 결제 연동을 단 몇 시간 만에 구축했습니다. 이제 제 1인 기업은 24시간 잠들지 않는 AI 비서들에 의해 무중단으로 운영되며 매출을 만들어내고 있습니다!\""
       },
       "sarah": {
-        "img-alt": "젊어 보이는 흑인 여성 Sarah Chima가 의자에 앉아 카메라를 향해 웃고 있습니다.",
-        "location": "나이지리아의 <strong>Sarah Chima (사라 치마)</strong> ",
-        "occupation": "<strong>Chatdesk(챗데스크)</strong>의 소프트웨어 엔지니어",
-        "testimony": "\"<strong>freeCodeCamp는 소프트웨어 개발자로서 제 경력을 쌓을 수 있는 관문이었습니다.</strong> 잘 짜여진 커리큘럼은 저의 코딩 지식을 초보자 수준에서 매우 자신감 있는 수준으로 끌어올렸습니다. 그것이 제가 처음으로 개발한 회사에 취직하는 데 필요한 전부였습니다.\""
+        "img-alt": "의자에 앉아 카메라를 향해 자신감 넘치게 웃고 있는 프리랜서 이지은님.",
+        "location": "부산의 <strong>이지은 디자이너</strong> ",
+        "occupation": "<strong>AI 기반 1인 디자인 에이전시</strong> 대표",
+        "testimony": "\"Synap OS 아카데미는 저에게 새로운 날개를 달아주었습니다. 비즈니스 에이전트와 서기 에이전트가 고객 응대 및 마케팅 카피 작성을 대신 수행하여, 저는 디자인 퀄리티에만 몰두할 수 있게 되었습니다. 1인 창업가라면 무조건 수강해야 합니다.\""
       },
       "emma": {
-        "img-alt": "젊어 보이는 백인 여성 Emma Bostian이 녹색 잎을 배경으로 카메라를 향해 웃고 있습니다.",
-        "location": "스웨덴의 <strong>Emma Bostian (엠마 보스티안)</strong> ",
-        "occupation": "<strong>스포티파이</strong> 소프트웨어 엔지니어",
-        "testimony": "\"저는 항상 자바스크립트를 배우는 데 어려움을 겪었습니다. 많은 과정을 수강했지만 freeCodeCamp의 과정에 전념하게 되었습니다. freeCodeCamp에서 자바스크립트와 데이터 구조 및 알고리즘을 공부하는 것은 스포티파이에서 소프트웨어 엔지니어로 꿈을 꾸는 데 <strong>필요한 기술과 자신감을 주었습니다.</strong>\""
+        "img-alt": "녹색 잎을 배경으로 카메라를 향해 웃고 있는 개발자 박태양 대표.",
+        "location": "성남의 <strong>박태양 대표</strong> ",
+        "occupation": "<strong>SaaS 제품 1인 테크 빌더</strong>",
+        "testimony": "\"AI 챗봇이나 PayPal 결제 연동 코드를 짤 때 항상 고생하곤 했습니다. Synap의 선형적인 교육과정과 실전 서비스 키트들을 전수받으면서, 단 일주일 만에 첫 구독형 SaaS 서비스를 성공적으로 배포하여 현재 자동 결제 수익을 거두고 있습니다!\""
       }
     },
     "benefits": {
-      "heading": "왜 freeCodeCamp와 함께 배워야 하는가:",
+      "heading": "왜 Synap OS 아카데미와 함께 배워야 하는가:",
       "list": [
         {
-          "title": "대규모 커뮤니티",
           "description": "학생, 졸업생, 교육자로 구성된 활기찬 학습 커뮤니티에 참여하세요."
         },
         {
